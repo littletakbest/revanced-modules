@@ -1,6 +1,6 @@
 {
-  "version": "v9.20.53 (patches 1.46.0.mpp)",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/littletakbest/revanced-modules/releases/download/6/music-morphe-module-v9.20.53-arm-v7a.zip",
+  "version": "v9.20.53 (patches 1.47.0.mpp)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/littletakbest/revanced-modules/releases/download/7/music-morphe-module-v9.20.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/littletakbest/revanced-modules/update/build.md"
 }
